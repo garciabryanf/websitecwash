@@ -15,12 +15,12 @@ const geistMono = Geist_Mono({
 // Site metadata
 export const metadata = {
   title: "C-Wash",
-  description: "Find the best career opportunities for your future!",
+  description: "Temukan tempat cuci mobil terbaik di sekitar Anda",
   icons: {
     icon: [
-      { url: '/images/JobNusa.png', type: 'image/png' }, // ✅ Replace with your JobNusa favicon path
+      { url: '/images/cwash-logo.png', type: 'image/png' },
     ],
-    apple: { url: '/images/JobNusa.png', type: 'image/png' }, // ✅ Replace with your JobNusa apple icon path
+    apple: { url: '/images/cwash-logo.png', type: 'image/png' },
   },
 };
 
@@ -28,8 +28,8 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        <link rel="icon" href="/images/JobNusa.png" type="image/png" />
-        <link rel="apple-touch-icon" href="/images/JobNusa.png" />
+        <link rel="icon" href="/images/cwash-logo.png" type="image/png" />
+        <link rel="apple-touch-icon" href="/images/cwash-logo.png" />
       </head>
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
         {children}
