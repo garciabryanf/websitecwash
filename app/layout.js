@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 // Site metadata
 export const metadata = {
-  title: "JobNusa",
+  title: "C-Wash",
   description: "Find the best career opportunities for your future!",
   icons: {
     icon: [

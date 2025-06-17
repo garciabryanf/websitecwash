@@ -18,7 +18,7 @@ export default function Home() {
       {/* Main Card */}
       <div className="relative z-10 bg-gradient-to-bl from-indigo-300 via-blue-200 to-white rounded-3xl p-8 shadow-2xl max-w-sm w-[90%] text-center">
         {/* Title */}
-        <h1 className="text-3xl font-bold text-black mb-4">JobNusa</h1>
+        <h1 className="text-3xl font-bold text-black mb-4">C-WASH</h1>
 
         {/* Logo */}
         <div className="flex justify-center mb-6">
@@ -34,7 +34,7 @@ export default function Home() {
         {/* Welcome Text */}
         <h2 className="text-xl font-bold text-black mb-2">Welcome</h2>
         <p className="text-black text-sm font-medium leading-relaxed">
-          Welcome to JobNusa <br />
+          Welcome to C-WASH <br />
           Find The Best Career Opportunities <br />
           For Your Future!
         </p>

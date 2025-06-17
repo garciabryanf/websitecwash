@@ -8,7 +8,7 @@ export default function Features() {
       {/* Header */}
       <header className="flex justify-between items-center px-8 py-4 bg-white shadow-md">
         <Link href="/" className="text-2xl font-bold text-indigo-700">
-          JobNusa
+          C-Wash
         </Link>
 
         <nav className="space-x-6 text-gray-700 hidden md:flex">
@@ -61,7 +61,7 @@ export default function Features() {
       >
         <div className="absolute inset-0 bg-indigo-900/60 backdrop-blur-sm"></div>
         <div className="relative z-10 text-center max-w-3xl mx-auto">
-          <h2 className="text-3xl font-semibold mb-4">Tentang JobNusa</h2>
+          <h2 className="text-3xl font-semibold mb-4">Tentang C-Wash</h2>
           <p className="text-md leading-relaxed">
             Aplikasi JobNusa adalah solusi digital untuk membantu pencari kerja menemukan dan mengakses informasi lowongan kerja secara praktis dan personal. Dirancang menggunakan Flutter & Firebase, JobNusa mendukung pencarian kerja yang lebih cerdas dan terintegrasi.
           </p>
