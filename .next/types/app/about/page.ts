@@ -1,4 +1,4 @@
-// File: C:\Users\caufu\OneDrive\Documents\warnet\websitecwash\app\about\page.js
+// File: D:\github\Semester 4\websitecwash\app\about\page.js
 import * as entry from '../../../../app/about/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

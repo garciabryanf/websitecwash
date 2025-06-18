@@ -1,4 +1,4 @@
-// File: C:\Users\caufu\OneDrive\Documents\warnet\websitecwash\app\layout.js
+// File: D:\github\Semester 4\websitecwash\app\layout.js
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
