@@ -12,10 +12,10 @@ export default function HomePage() {
       {/* Left Content */}
       <div style={{ flex: 1, maxWidth: '40%' }}>
         <h1 style={{ fontSize: '2.5rem', fontWeight: 'bold', marginBottom: '1rem' }}>
-          Lose pounds without <br /> counting calories
+          Download Apk <br /> C-WASH
         </h1>
         <p style={{ fontSize: '1.1rem', marginBottom: '2rem', color: '#555' }}>
-          Feel more energized and confident with intermittent fasting
+          Mencari tempat cuci mobil di Palembang
         </p>
         <a
   href="https://drive.google.com/uc?export=download&id=1aJsFh1cAxQ-uMc0fV1WHGYPu2efsFPOg"
@@ -36,9 +36,7 @@ export default function HomePage() {
 >
   Download C Wash
 </a>
-        <p style={{ fontSize: '0.9rem', color: '#777' }}>
-          Take the quiz and get personalised advice
-        </p>
+        
         <div style={{ marginTop: '2rem', display: 'flex', alignItems: 'center' }}>
           <div style={{
             border: '2px solid #ccc',
